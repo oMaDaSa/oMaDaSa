@@ -21,11 +21,11 @@
 
 <img align="left" width="46%" alt="raccoon"  src="https://media.tenor.com/ZLcZruMjz24AAAAd/raccoon-bread.gif">
 <div align = "right"> 
-  <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omadasa&show_icons=true&locale=en&layout=compact" alt="omadasa" /></p>
+  <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omadasa&show_icons=true&locale=en&layout=donut&theme=transparent&hide_border=true" alt="omadasa" /></p>
   
-  <p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=omadasa&show_icons=true&locale=en" alt="omadasa" /></p>
+  <p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=omadasa&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="omadasa" /></p>
   
-  <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omadasa&" alt="omadasa" /></p>
+  <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omadasa&theme=transparent&hide_border=true" alt="omadasa" /></p>
 </div>
 
-<p align="center"> <img width = "20%" src="https://komarev.com/ghpvc/?username=omadasa&label=Profile%20views&color=0e75b6&style=flat" alt="omadasa" /> </p>
+<p align="center"> <img width = "20%" src="https://komarev.com/ghpvc/?username=omadasa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omadasa" /> </p>
