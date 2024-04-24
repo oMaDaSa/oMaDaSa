@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/matheusdsanta/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="matheusdsantana07@gmail.com" target="_blank">
+  <a href="[matheusdsantana07@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjsvBSbjdbqJtxQSHWNqkhQqhCLjjhFzBHFdqsfBchTQJtznkZdNFQxVJbJMwGwXDTPcXz)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/matheus-dantas-b6884121a/" target="_blank">
