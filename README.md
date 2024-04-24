@@ -2,11 +2,13 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/dOeQ5ghI0n5kc"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oMaDaSa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -30,7 +32,11 @@
 
 ###
 
-<div align="left">
+<img align="right" height="200" src="https://24.media.tumblr.com/tumblr_ma5ufr6JBW1rt479bo1_500.gif"  />
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/matheusdsanta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -41,5 +47,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/oMaDaSa/oMaDaSa/output/snake.svg" alt="Snake animation" />
 
 ###
