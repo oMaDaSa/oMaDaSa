@@ -1,4 +1,4 @@
-<h2 align="center">Matheus a- CC Student at UFU - Brazil</h2>
+<h2 align="center">Matheus, a CC Student at UFU - Brazil</h2>
 
 ###
 
